@@ -4,11 +4,11 @@
 
 /**
 
- * main - check the code
+ * heck the code
 
  *
 
- * Return: Always 0.
+ * R: Always 0.
 
  */
 
